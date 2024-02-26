@@ -17,5 +17,5 @@ This repository contains the source code for a simple calculator web application
 - Open the index.html file in your web browser.
 - Use the calculator buttons to perform calculations.
 - Click the "AC" button to clear the display.
-- Click the "DE" button to delete the last entered character.
+- Click the "DE" button to delete the last entered number.
 - Enjoy calculating!
